@@ -1,2 +1,2 @@
-Link para siintaxe markdown: https://www.markdownguide.org/
+Link para sintaxe markdown: https://www.markdownguide.org/
 Git bash é um terminal extendido para otimizar o uso do Git
